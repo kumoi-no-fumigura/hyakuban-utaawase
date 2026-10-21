@@ -1,6 +1,7 @@
 {
  "work": "百番歌合",
  "work_id": "gunsho11-hyakuban",
+ "repo": "kumoi-no-fumigura/hyakuban-utaawase",
  "yomi": "ひゃくばんうたあわせ",
  "category": "歌合",
  "editions": [
@@ -100,6 +101,5 @@
    ],
    "text": "源氏物語願文渡二十五有苦海。令聞〓雁雁鴛鴦之初音而已右源氏物語願文以甲府廣澤寺本書寫按合畢"
   }
- ],
- "repo": "kumoi-no-fumigura/hyakuban-utaawase"
+ ]
 }
